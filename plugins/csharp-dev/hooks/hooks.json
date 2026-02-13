@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "find ${CLAUDE_PLUGIN_ROOT}/references -name '*.md' -exec cat {} \\;"
+          }
+        ]
+      }
+    ]
+  }
+}

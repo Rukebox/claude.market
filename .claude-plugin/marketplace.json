@@ -18,6 +18,20 @@
       "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/notification",
       "source": "./plugins/notification",
       "category": "productivity"
+    },
+    {
+      "name": "csharp-dev",
+      "description": "It sets up an environment that is useful for C# development.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gukhyeon Ryu",
+        "email": "rgh4806@gmail.com",
+        "url": "https://github.com/rgh4806"
+      },
+      "homepage": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/csharp-dev/README.md",
+      "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/csharp-dev",
+      "source": "./plugins/csharp-dev",
+      "category": "development"
     }
   ]
 }
