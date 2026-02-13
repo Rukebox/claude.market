@@ -32,6 +32,20 @@
       "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/csharp-dev",
       "source": "./plugins/csharp-dev",
       "category": "development"
+    },
+    {
+      "name": "smart-git",
+      "description": "It enables you to use Git more smartly. All operations will be performed within the current branch.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gukhyeon Ryu",
+        "email": "rgh4806@gmail.com",
+        "url": "https://github.com/rgh4806"
+      },
+      "homepage": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/smart-git/README.md",
+      "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/smart-git",
+      "source": "./plugins/smart-git",
+      "category": "productivity"
     }
   ]
 }
