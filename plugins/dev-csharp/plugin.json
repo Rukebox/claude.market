@@ -1,5 +1,5 @@
 {
-  "name": "csharp-dev",
+  "name": "dev-csharp",
   "description": "It sets up an environment that is useful for C# development.",
   "version": "1.0.0",
   "author": {
@@ -7,6 +7,6 @@
     "email": "rgh4806@gmail.com",
     "url": "https://github.com/rgh4806"
   },
-  "homepage": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/csharp-dev/README.md",
-  "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/csharp-dev"
+  "homepage": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/dev-csharp/README.md",
+  "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/dev-csharp"
 }
